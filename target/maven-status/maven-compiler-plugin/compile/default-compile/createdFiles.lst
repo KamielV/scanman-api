@@ -1,0 +1,15 @@
+eu\dots\kamiel\vijverman\dotsapi\controller\SessionController.class
+eu\dots\kamiel\vijverman\dotsapi\controller\HomeContoller.class
+WebMvcController.class
+eu\dots\kamiel\vijverman\dotsapi\dao\TableDAO.class
+eu\dots\kamiel\vijverman\dotsapi\model\Constants.class
+eu\dots\kamiel\vijverman\dotsapi\controller\AttendeeController.class
+eu\dots\kamiel\vijverman\dotsapi\controller\EventController.class
+eu\dots\kamiel\vijverman\dotsapi\model\AuthToken.class
+eu\dots\kamiel\vijverman\dotsapi\config\SpringSecurityConfig.class
+eu\dots\kamiel\vijverman\dotsapi\model\LoginUser.class
+eu\dots\kamiel\vijverman\dotsapi\config\AuthenticationEntryPoint.class
+eu\dots\kamiel\vijverman\dotsapi\controller\ErrController.class
+eu\dots\kamiel\vijverman\dotsapi\controller\SessionAttendeeController.class
+eu\dots\kamiel\vijverman\dotsapi\dao\Database.class
+eu\dots\kamiel\vijverman\dotsapi\Webservice.class
